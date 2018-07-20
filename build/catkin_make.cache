@@ -1,0 +1,2 @@
+depthimage_to_laserscan:hector_slam_example
+-DCATKIN_DEVEL_PREFIX=/home/johnson/git/kinect_ws/devel -DCMAKE_INSTALL_PREFIX=/home/johnson/git/kinect_ws/install -G Unix Makefiles
